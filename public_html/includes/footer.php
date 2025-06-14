@@ -2,9 +2,9 @@
 
   <footer>
             <div class="container">
-                <a href="https://www.facebook.com/"> <img src="img/fb.jpg" width="6%"> </a>    
-                <a href="https://www.instagram.com/"> <img src="img/instagram.jpg" width="6%"> </a> &nbsp; &nbsp;
-                <a href="https://twitter.com/"> <img src="img/twitter.jpg" width="4%"> </a>
+                <a href="https://www.facebook.com/"> <img src="img/fb.png" width="2%"> </a>    &nbsp;
+                <a href="https://www.instagram.com/"> <img src="img/instagram.jpeg" width="2%"> </a>  &nbsp;
+                <a href="https://twitter.com/"> <img src="img/twitter.png" width="2%"> </a> &nbsp;
                 <hr> 
                 <table>
                   <tr>                    
