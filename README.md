@@ -2,6 +2,14 @@
 
 
 **************Resource Sharing Project***********
+Cov-Aid is a web application built to help people during times of crisis (like pandemics or natural disasters) by enabling individuals to lend or borrow essential resources from others in their own locality.
+
+🔧 Tech Stack
+Frontend: HTML, CSS, JavaScript, Bootstrap
+
+Backend: PHP
+
+Database: MySQL
  
 
 1. Extract the files from cov-aid.zip.
