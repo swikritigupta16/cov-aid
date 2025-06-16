@@ -1,16 +1,19 @@
 # cov-aid
 
 
-**************Resource Sharing Project***********
+-Resource Sharing Project-
+
 Cov-Aid is a web application built to help people during times of crisis (like pandemics or natural disasters) by enabling individuals to lend or borrow essential resources from others in their own locality.
 
 🔧 Tech Stack
+
 Frontend: HTML, CSS, JavaScript, Bootstrap
 
 Backend: PHP
 
 Database: MySQL
  
+Steps to follow:
 
 1. Extract the files from cov-aid.zip.
 
@@ -47,12 +50,11 @@ _____________________________________________Folder Structure___________________
 	├──  surplus_script.php
 	└──  user_edit_details.php
 
-____________________________________________SETUP_________________________________________________________________________________________
 
-1. Start the Apache and MySQL modules using the XAMPP controller.
-2. Open the phpMyAdmin and create a database "cov-aid". 
-3. Import the cov-aid.sql file present in the zip folder.
-4. Open the htdocs folder in the xampp folder. Copy paste the folder cov-aid.
-5. Open the browser (chrome), type localhost/cov-aid/index.php and you should see the main page of the website.
+2. Start the Apache and MySQL modules using the XAMPP controller.
+3. Open the phpMyAdmin and create a database "cov-aid". 
+4. Import the cov-aid.sql file present in the zip folder.
+5. Open the htdocs folder in the xampp folder. Copy paste the folder cov-aid.
+6. Open the browser (chrome), type localhost/cov-aid/index.php and you should see the main page of the website.
 
 *******************************************************************************************************************************************
