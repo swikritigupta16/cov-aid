@@ -55,6 +55,6 @@ _____________________________________________Folder Structure___________________
 3. Open the phpMyAdmin and create a database "cov-aid". 
 4. Import the cov-aid.sql file present in the zip folder.
 5. Open the htdocs folder in the xampp folder. Copy paste the folder cov-aid.
-6. Open the browser (chrome), type localhost/cov-aid/index.php and you should see the main page of the website.
+6. Open the browser (chrome), type localhost/cov-aid/public_html/index.php and you should see the main page of the website.
 
 *******************************************************************************************************************************************
