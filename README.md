@@ -1,4 +1,4 @@
-# cov-aid
+🚑 cov-aid
 
 
 -Resource Sharing Project-
