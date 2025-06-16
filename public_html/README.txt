@@ -45,14 +45,3 @@ ____________________________________________SETUP_______________________________
 5.) Open the browser (chrome), type localhost/cov-aid/index.php and you should see the main page of the website.
 
 *******************************************************************************************************************************************
-Team Name :- Cov-Aid
-
-Team Members :-
-
-1. Swikriti Gupta
-2. Vani Malhotra
-3. Nikhil Jain
-4. Ritika Verma
-5. Muskaan Singh
-
-*********************************************END OF DOCUMENT********************************************************************************
