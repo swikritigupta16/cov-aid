@@ -1,7 +1,7 @@
 # cov-aid
 
 
-**************Resource Sharing Project*************************************************
+**************Resource Sharing Project***********
  
 
 1. Extract the files from cov-aid.zip.
@@ -39,11 +39,12 @@ _____________________________________________Folder Structure___________________
 	├──  surplus_script.php
 	└──  user_edit_details.php
 
-____________________________________________SETUP_________________________________________________________________________________________				
-1.) Start the Apache and MySQL modules using the XAMPP controller.
-2.) Open the phpMyAdmin and create a database "cov-aid". 
-3.) Import the cov-aid.sql file present in the zip folder.
-4.) Open the htdocs folder in the xampp folder. Copy paste the folder cov-aid.
-5.) Open the browser (chrome), type localhost/cov-aid/index.php and you should see the main page of the website.
+____________________________________________SETUP_________________________________________________________________________________________
+
+1. Start the Apache and MySQL modules using the XAMPP controller.
+2. Open the phpMyAdmin and create a database "cov-aid". 
+3. Import the cov-aid.sql file present in the zip folder.
+4. Open the htdocs folder in the xampp folder. Copy paste the folder cov-aid.
+5. Open the browser (chrome), type localhost/cov-aid/index.php and you should see the main page of the website.
 
 *******************************************************************************************************************************************
